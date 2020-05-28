@@ -1,7 +1,7 @@
 .resume-right-col{
     background: #27221f;
     height: 100%;
-    width: 65%;;
+    /* width: 65.6%; */
     display: block;
     font-family: 'Times New Roman', Times, serif;
     }
@@ -12,7 +12,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     display: -webkit-inline-box;
-    
+
 }
 
 #skillCard{
