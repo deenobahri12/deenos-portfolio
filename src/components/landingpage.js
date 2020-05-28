@@ -13,7 +13,7 @@ class LandingPage extends Component {
             <img className='moduleIcon' src="https://img.icons8.com/plasticine/100/000000/module.png"/>
           <Typist>
             <Typist.Delay ms={1000} />
-            <h1>Deeno Shamsul-Bahri</h1>
+            <h1>Deeno Bahri</h1>
           </Typist>  
             <div className='banner-text'>  
               <h1>Software Engineering</h1>
