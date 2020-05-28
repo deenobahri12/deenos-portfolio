@@ -14,14 +14,19 @@ class Resume extends Component {
               <Cell className="resume-left-col" col={4}>
                   <h2>Resume & Contact</h2>
                   <hr/>
-                  {/* <h2>Deeno Bahri</h2> */}
+                  <img src="https://img.icons8.com/fluent/52/000000/module.png"/>
+                  <h3>Objective:</h3>
+                  <h4>Seeking a challenging position as a software engineer in a leading organization where innovation and education are valued and encouraged.
+                      I love to solve complex problems and learn new technology.
+                  </h4>
+                  <hr/>
                   <h4><img src="https://img.icons8.com/fluent/66/000000/map-pin.png"/>Mpls, MN</h4>
                   <hr/>
                   <h4><a target='_blank' href='http://www.linkedin.com/in/deeno-bahri'><img src="https://img.icons8.com/ios-filled/66/000000/linkedin.png"/></a>Linkedin</h4>  
                   <hr/>  
-                  <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>612-747-9100</h4>
-                  <hr/>
                   <h4><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</h4>
+                  <hr/>
+                  <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>612-747-9100</h4>
                   <hr/>
                   <h4><img src="https://img.icons8.com/ios-filled/66/000000/send-mass-email.png"/>deenobahri12@gmail.com</h4>  
                   

@@ -106,8 +106,15 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
     color: black;
+
 }
 
+.resume-left-col h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+
+}
 
 .resume-left-col hr{
     border-top: .3rem solid black;
