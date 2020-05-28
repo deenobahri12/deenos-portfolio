@@ -15,7 +15,7 @@ class Resume extends Component {
                   <h2>Resume & Contact</h2>
                   <hr/>
                   <img src="https://img.icons8.com/fluent/52/000000/module.png"/>
-                  <h3>Objective:</h3>
+                  <h3>Summary:</h3>
                   <h4>Seeking a challenging position as a software engineer in a leading organization where innovation and education are valued and encouraged.
                       I love to solve complex problems and learn new technology.
                   </h4>
