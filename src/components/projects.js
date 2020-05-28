@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Grid, Cell, Card, CardTitle, CardActions, Button, CardText } from 'react-mdl';
 import './../style/projects.css'
 import debate from './../assets/settle-it.jpg'
-import office from './../assets/the-office.jpg'
+import office from './../assets/the-office2.jpg'
 import books from './../assets/books.jpg'
 import DBZ from './../assets/dbz-game.jpg'
 
