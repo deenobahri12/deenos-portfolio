@@ -11,6 +11,7 @@
     padding-left: 2%;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    display: -webkit-inline-box;
 }
 
 #skillCard{
