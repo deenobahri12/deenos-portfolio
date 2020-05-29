@@ -25,7 +25,7 @@ class Resume extends Component {
                   <hr/>
                   <h4><a target='_blank' href='http://www.linkedin.com/in/deeno-bahri'><img src="https://img.icons8.com/ios-filled/66/000000/linkedin.png"/>Linkedin</a></h4>  
                   <hr/>  
-                  <h4><a target='_blank' href='https://drive.google.com/file/d/1VJi3risk31reEglz-A46_VE2mrlh-ILf/view?usp=sharing'><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</a></h4>
+                  <h4><a target='_blank' href='https://drive.google.com/file/d/1omwmtX9oi246PhOHrPBR-eo0Nn_2--ec/view?usp=sharing'><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</a></h4>
                   <hr/>
                   <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>(612)-747-9100</h4>
                   <hr/>
