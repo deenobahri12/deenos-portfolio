@@ -122,16 +122,16 @@
     
 }
 
-.resume-left-col h4{
+.resume-left-col h4 a{
     display: block;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
-
+    color: black;
 }
 
 
 .experience h4{
-
+    
     color: white;
     margin-top:.2rem;
     font-family: 'Times New Roman, Times, serif';

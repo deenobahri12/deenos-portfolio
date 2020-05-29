@@ -16,21 +16,20 @@ class Resume extends Component {
                   <hr/>
                   <img src="https://img.icons8.com/fluent/52/000000/module.png"/>
                   <h3>Summary:</h3>
-                  <h4>Seeking a challenging position as a software engineer in a leading organization where innovation and education are valued and encouraged.
-                      I love to solve complex problems and learn new technology.
+                  <h4>Experienced software engineer with specialization in front-end technology
+                      and demonstrated ability in full-stack development. I love to solve complex 
+                      problems and learn new technology
                   </h4>
                   <hr/>
                   <h4><img src="https://img.icons8.com/fluent/66/000000/map-pin.png"/>Mpls, MN</h4>
                   <hr/>
-                  <h4><a target='_blank' href='http://www.linkedin.com/in/deeno-bahri'><img src="https://img.icons8.com/ios-filled/66/000000/linkedin.png"/></a>Linkedin</h4>  
+                  <h4><a target='_blank' href='http://www.linkedin.com/in/deeno-bahri'><img src="https://img.icons8.com/ios-filled/66/000000/linkedin.png"/>Linkedin</a></h4>  
                   <hr/>  
-                  <h4><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</h4>
+                  <h4><a target='_blank' href='https://drive.google.com/file/d/1VJi3risk31reEglz-A46_VE2mrlh-ILf/view?usp=sharing'><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</a></h4>
                   <hr/>
-                  <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>612-747-9100</h4>
+                  <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>(612)-747-9100</h4>
                   <hr/>
-                  <h4><img src="https://img.icons8.com/ios-filled/66/000000/send-mass-email.png"/>deenobahri12@gmail.com</h4>  
-                  
-
+                  <h4><a target='_blank' href="mailto:deenobahri12@gmail.com"><img src="https://img.icons8.com/ios-filled/66/000000/send-mass-email.png"/>deenobahri12@gmail.com</a></h4>  
               </Cell>
 
             <Cell className="resume-right-col" col={8}>
@@ -88,10 +87,22 @@ class Resume extends Component {
             <Experience jobName={<h4>Software Engineer: 2019 to Present-</h4>}/>
                <h5>BI worldwide:</h5>
                <hr/>
-               <p className='descrip'>In this corporate environment my role is centered in the product delivery department where we work on new features, maintanice, and upgrades for 
-               the clients software. It is also my responsibility to support other teams when necessary. My role as a software engineer at BI worldwide has a strong emphasis in javascript along with a heavy front-end focus. I work very carefuly with the Java and oracle engineers 
-               to ensure quality code procedures are meant and we stay on scheadule to meet tight deadlines. Technologies used for this role include vanilla javascript, Bootstrap/Sass, HTML/CSS, jquery, backbone.js, React/Redux/Hooks, AWS. 
-                </p>
+             <p className='descrip'>
+               I started at BI-Worldwide as a software engineer specializing in front end development. 
+               This role was centered in the Product-delivery department and completed projects from beginning to end in the business intelligence industry. 
+             </p>
+
+             <p className='descrip'>
+             Consulted with clients to gather requirements and discuss design choices. 
+             Developed solutions and designs to meet specific requirements such as compatibility with multiple browsers and mobile devices.
+             </p>
+
+             <p className='descrip'>
+               Technologies used in this role included Vanilla Javascript, Jquery, Backbone.js, HTML/CSS, Sass, React.js, AWS, Node.js. 
+               Brought web mockups to life and worked very closely with Java and Oracle engineers to bring major projects to full completion within the deadline.  
+               Trained and supervised three frontend team members for ongoing product upgrades and major ongoing projects.
+             </p> 
+
             </div>
             </Cell>
           </Grid>
