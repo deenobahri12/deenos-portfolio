@@ -17,7 +17,7 @@
 
 #skillCard{
     background-color: gainsboro;
-    width:  13.5rem;
+    width:  12.5rem;
     height: 23.5rem;
     margin: auto; 
     margin-left: 3.2rem;
@@ -131,7 +131,7 @@
 
 
 .experience h4{
-    
+
     color: white;
     margin-top:.2rem;
     font-family: 'Times New Roman, Times, serif';
