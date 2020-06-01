@@ -37,7 +37,6 @@ class App extends Component {
                 <a href="/resume"><bold className="link">Resume</bold></a>
                 <a href="/aboutme">About me</a>
                 <a href="/projects">Apps</a>
-                {/* <a href="#">Contact</a> */}
             </Navigation>
         </Header>
         

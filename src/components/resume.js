@@ -16,7 +16,7 @@ class Resume extends Component {
                   <hr/>
                   <img src="https://img.icons8.com/fluent/52/000000/module.png"/>
                   <h3>Summary:</h3>
-                  <h4>Experienced software engineer with specialization in front-end technology
+                  <h4>Experienced software engineer with a specialization in front-end technology
                       and demonstrated ability in full-stack development. I love to solve complex 
                       problems and learn new technology
                   </h4>
@@ -25,7 +25,7 @@ class Resume extends Component {
                   <hr/>
                   <h4><a target='_blank' href='http://www.linkedin.com/in/deeno-bahri'><img src="https://img.icons8.com/ios-filled/66/000000/linkedin.png"/>Linkedin</a></h4>  
                   <hr/>  
-                  <h4><a target='_blank' href='https://drive.google.com/file/d/1FRX6sr45QBbWDVhZTLyi1_Udxjo6nucl/view?usp=sharing'><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</a></h4>
+                  <h4><a target='_blank' href='https://drive.google.com/file/d/1v2t2o-u8FyCA_psLM_jmZW67MmaBr-Rw/view?usp=sharing'><img src="https://img.icons8.com/cute-clipart/66/000000/file.png"/>Resume (PDF)</a></h4>
                   <hr/>
                   <h4><img src="https://img.icons8.com/dusk/66/000000/cell-phone.png"/>(612)-747-9100</h4>
                   <hr/>
