@@ -16,7 +16,7 @@ class Resume extends Component {
                   <hr/>
                   <img src="https://img.icons8.com/fluent/52/000000/module.png"/>
                   <h3>Summary:</h3>
-                  <h4>Experienced software engineer with a specialization in front-end technology
+                  <h4>Experienced software engineer with a specialization in Javascript engineering
                       and demonstrated ability in full-stack development. I love to solve complex 
                       problems and learn new technology
                   </h4>
