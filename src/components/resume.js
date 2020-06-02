@@ -41,10 +41,12 @@ class Resume extends Component {
             <hr className='cardLine'/>
             <ul>
                 <li>JAVASCRIPT</li>
-                <li>REACT</li>
+                <li>REACT.js</li>
                 <li>HTML/CSS</li>
                 <li>Sass</li>
                 <li>Jquery</li>
+                <li>Backbone.js</li>
+
             </ul>
             </Card>
             <Card shadow={0} id='skillCard'>
@@ -60,7 +62,7 @@ class Resume extends Component {
             </Card>
             <Card shadow={0} id='skillCard'>
             <img className='fe-icon' src="https://img.icons8.com/officel/80/000000/database.png"/>  
-            <h5 className='cardTitle' >DATABASE</h5>
+            <h5 className='cardTitle' >DATABASES</h5>
             <hr className='cardLine'/>
             <ul>
                 <li>MySQL</li>
