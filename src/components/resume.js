@@ -91,7 +91,7 @@ class Resume extends Component {
                <hr/>
              <p className='descrip'>
                I started at BI-Worldwide as a software engineer specializing in Javascript development. 
-               This role was centered in the Product-delivery department and completed projects from beginning to end in the business intelligence industry. 
+               This role was centered in the Product-delivery department and completed large projects from beginning to end in the business intelligence industry. 
              </p>
 
              <p className='descrip'>
