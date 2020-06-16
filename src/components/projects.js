@@ -5,6 +5,8 @@ import debate from './../assets/settle-it.jpg'
 import office from './../assets/the-office2.jpg'
 import books from './../assets/books.jpg'
 import DBZ from './../assets/dbz-game.jpg'
+import movie from './../assets/movie-master.jpg'
+
 
 
 
@@ -58,6 +60,18 @@ class Projects extends Component {
     <CardActions border>
         <Button id='appLinks' target='_blank' href="https://deenobahri12.github.io/React-Click-app/" colored><img src="https://img.icons8.com/android/30/000000/domain.png"/>Site</Button>
         <Button id='appLinks' target='_blank' href="https://github.com/deenobahri12/React-Click-app" target="_blank" colored><img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>Github</Button>
+    </CardActions>
+</Card>
+
+<Card className='appCard' shadow={0}>
+    <CardTitle expand className='app1' style={{backgroundImage:`url(${movie})`}}>Movie Master</CardTitle> 
+    {/* <CardTitle className='card-title'>Movie Master</CardTitle> */}
+    <CardText>
+        <p>Technology used:  JavaScript | API requests | React.js | HTML/CSS</p>
+    </CardText>
+    <CardActions border>
+        <Button id='appLinks' target='_blank' href="https://deenobahri12.github.io/Movie-search/" colored><img src="https://img.icons8.com/android/30/000000/domain.png"/>Site</Button>
+        <Button id='appLinks' target='_blank' href="https://github.com/deenobahri12/Movie-search" target="_blank" colored><img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>Github</Button>
     </CardActions>
 </Card>
 
