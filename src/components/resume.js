@@ -59,6 +59,7 @@ class Resume extends Component {
                 <li>Python</li>
                 <li>APIs</li>
                 <li>TypeScript</li>
+                
             </ul>            
             </Card>
             <Card shadow={0} id='skillCard'>
