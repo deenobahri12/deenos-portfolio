@@ -18,7 +18,7 @@ class AboutMe extends Component {
                 <p>
                   Since I was young, electronics and technology intrigued me. I was always curious of the process and mechanics that went into creating my smartphone, my Playstation, or the websites I would browse. Upon finishing high school, I wasn’t sure what my focus of study should be. Initially, I thought my passion was personal training and fitness. Early on, I successfully created Optimal Health & Performance which is my personal training and strength coaching business. 
                   While I come from a disciplined fitness background and enjoy personal training, it never provided me with the challenge or satisfaction I hoped for. While my training business was successful, I started to seek out other avenues to creatively express myself.
-                  In 2016, I was introduced to computer programming through a close friend of mine.
+                  In 2015, I was introduced to computer programming through a close friend of mine.
                 </p> 
                 <p>
                   Programming was never a career path I considered pursing. However, 
