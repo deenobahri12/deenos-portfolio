@@ -43,7 +43,7 @@ class Resume extends Component {
                 <li>JAVASCRIPT</li>
                 <li>REACT.js</li>
                 <li>HTML/CSS</li>
-                <li>Sass</li>
+                <li>Hooks/Redux</li>
                 <li>Jquery</li>
                 <li>Backbone.js</li>
 
@@ -58,6 +58,7 @@ class Resume extends Component {
                 <li>Express.js</li>
                 <li>Python</li>
                 <li>APIs</li>
+                <li>TypeScript</li>
             </ul>            
             </Card>
             <Card shadow={0} id='skillCard'>
@@ -100,7 +101,7 @@ class Resume extends Component {
              </p>
 
              <p className='descrip'>
-               Technologies used in this role included Vanilla Javascript, Jquery, Backbone.js, HTML/CSS, Sass, React.js, AWS, Node.js. 
+               Technologies used in this role include Javascript, React.js, Hooks/Redux, TypeScript, Jquery, Backbone.js, HTML/CSS, WebPack, WebServices, Node.js, Sass, AWS. 
                Brought web mockups to life and worked very closely with Java and Oracle engineers to bring major projects to full completion within the deadline.  
                Trained and supervised three frontend team members for ongoing product upgrades and major ongoing projects.
              </p> 
